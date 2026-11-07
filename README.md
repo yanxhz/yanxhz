@@ -26,12 +26,12 @@ Saya Adrian Michael Duha — suka membangun web, bot Telegram, dan otomasi, dari
 ## 📊 Statistik GitHub
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yanxhz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanxhz&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="170em" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=yanxhz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=yanxhz&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanxhz&theme=algolia" alt="GitHub streak stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanxhz&theme=algolia" alt="Profile summary"/>
 </p>
 
 ---
@@ -45,6 +45,14 @@ Saya Adrian Michael Duha — suka membangun web, bot Telegram, dan otomasi, dari
 | [Makan-Cuy-restaurant-apps](https://github.com/yanxhz/Makan-Cuy-retaurant-apps) | Aplikasi pencari restoran (submission Dicoding) | JavaScript |
 | [wedding-invitation](https://github.com/yanxhz/wedding-invitation) | Website statis undangan pernikahan online | HTML, CSS, JS |
 | [yanxhz.WebCalculator.github.io](https://github.com/yanxhz/yanxhz.WebCalculator.github.io) | Web Calculator | JavaScript |
+
+---
+
+## 🐍 Undian Kontribusi
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="80%"/>
+</p>
 
 ---
 
