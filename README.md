@@ -1,10 +1,10 @@
 # 👋 Halo, saya Adrian Michael Duha!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=500&color=F7A63A&center=true&vCenter=true&width=520&lines=Mahasiswa+TI+%40+Mikroskil;Studi+Independen+%40+Dicoding;Pecinta+Web+%26+Automation;Selalu+belajar+hal+baru" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=500&color=F7A63A&center=true&vCenter=true&width=520&lines=Pecinta+Web+%26+Automation;Membangun+bot+Telegram+%26+otomasi;Selalu+belajar+hal+baru" alt="Typing SVG" />
 </p>
 
-Saya seorang **Mahasiswa Teknik Informatika** di [Mikroskil](https://www.mikroskil.ac.id/) dan sedang menempuh **Studi Independen** Kampus Merdeka di [Dicoding](https://www.dicoding.com/). Saya suka membangun web, bot Telegram, dan otomasi — dari sekadar eksperimen sampai proyek yang benar-benar dipakai.
+Saya Adrian Michael Duha — suka membangun web, bot Telegram, dan otomasi, dari sekadar eksperimen sampai proyek yang benar-benar dipakai.
 
 ---
 
